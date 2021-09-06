@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
-: "${TERMUX_PREFIX:=/data/data/com.termux/files/usr}"
-: "${TERMUX_ANDROID_HOME:=/data/data/com.termux/files/home}"
+: "${TERMUX_PREFIX:=/data/data/com.nightmare.termare/files/usr}"
+: "${TERMUX_ANDROID_HOME:=/data/data/com.nightmare.termare/files/home}"
 
 echo "Installing $TERMUX_PREFIX/bin/proot-distro"
 install -d -m 700 "$TERMUX_PREFIX"/bin

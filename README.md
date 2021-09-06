@@ -192,7 +192,7 @@ Login command supports these behavior modifying options:
 
   * /apex (only Android 10+)
   * /data/dalvik-cache
-  * /data/data/com.termux
+  * /data/data/com.nightmare.termare
   * /sdcard
   * /storage
   * /system
